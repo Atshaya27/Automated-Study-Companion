@@ -35,5 +35,3 @@ This project is built using **ADK-Python**, includes multi-agent orchestration, 
   - Human evaluation loop supported  
 
 ---
-
-## 🧠 Architecture
